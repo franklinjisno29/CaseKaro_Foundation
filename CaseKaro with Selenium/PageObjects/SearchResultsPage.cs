@@ -12,7 +12,7 @@ using System.Text;
 using System.Threading.Tasks;
 
 namespace CaseKaro_with_Selenium.PageObjects
-{
+{ 
     internal class SearchResultsPage
     {
         IWebDriver driver;
